@@ -1,2 +1,3 @@
 # hello-world
-test repo
+
+This is a simple repo for testing github.
